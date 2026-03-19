@@ -1,0 +1,2 @@
+# PrizrakGPI
+Virus gpi. Python
